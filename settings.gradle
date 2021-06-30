@@ -1,0 +1,2 @@
+rootProject.name='DemoViewpager'
+include ':app'
